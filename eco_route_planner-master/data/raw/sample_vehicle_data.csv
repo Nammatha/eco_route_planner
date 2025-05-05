@@ -1,0 +1,4 @@
+Vehicle_Type,Fuel_Type,Fuel_Efficiency_km_per_l
+Sedan,Petrol,15
+SUV,Diesel,12
+Truck,Diesel,8
