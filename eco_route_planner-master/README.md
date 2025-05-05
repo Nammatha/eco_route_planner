@@ -97,11 +97,4 @@ This project is licensed under the MIT License — feel free to use and modify.
 
 ---
 
-## 🤝 Connect with Me
-
-* GitHub: [TJ-SIVA](https://github.com/TJ-SIVA)
-* Email: [sivakumardevarajoffical@gmail.com](mailto:sivakumardevarajoffical@gmail.com)
-
----
-
 > *Let's make transportation smarter and greener together!*
